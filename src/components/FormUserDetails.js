@@ -78,8 +78,6 @@ const FormUserDetails = ({ nextStep, handleFormData, values }) => {
                         </Button>
                     </form>
                 </Paper><br />
-
-
             </div>
         </div >
     )
